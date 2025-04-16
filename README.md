@@ -29,7 +29,7 @@
 - 🌱 Exploring the depths of **MERN & Java Full Stack**  
 - 🤝 Open to contributing to **real-world, impactful projects**  
 - 💬 Ask me anything about **Java, React, HTML/CSS, JS**  
-- 📫 Reach out to me: **anurag.tiwari.dev@gmail.com**  
+- 📫 Reach out to me: **100anuragtiwari.dev@gmail.com**  
 - ⚡ Fun Fact: Debugging gets better with **chai + lo-fi beats** ☕🎧  
 
 ---
@@ -67,10 +67,14 @@
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/anuragtiwari3100/" target="_blank">
+  <a href="https://www.linkedin.com/in/anurag-tiwari-620b76262/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:anurag.tiwari.dev@gmail.com">
+  <a href="100anuragtiwari.dev@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
+  <a href="https://www.instagram.com/abhishektiwari_8/" target="_blank">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 </p>
