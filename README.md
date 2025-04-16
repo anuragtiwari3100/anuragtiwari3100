@@ -7,7 +7,7 @@
 
 <p align="center">
   <a href="https://dev-dec-black.vercel.app/">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragtiwari3100&repo=Shopping-Cart-websites&theme=radical" />
+    <img src="tiwari.jpg" />
   </a>
 
 </p>
