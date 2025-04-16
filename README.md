@@ -3,7 +3,18 @@
 
 <h1 align="center">Hey 👋, I'm Anurag Tiwari</h1>
 <h3 align="center">🚀 Full Stack Dev | Java + MERN Stack Enthusiast | Lifelong Learner 🚀</h3>
-<img id="freepik_stories-programming"  src="https://raw.githubusercontent.com/anuragtiwari3100/anuragtiwari3100/700679b91a8174385a886c83b4f6ecc588da32e9/programming-not-css.svg"alt="Animated Dev SVG" width="600px" />
+<p align="center">
+  <iframe 
+    src="https://dev-dec-black.vercel.app/" 
+    width="435" 
+    height="60" 
+    style="border:none; overflow:hidden;" 
+    scrolling="no"
+    frameborder="0"
+    allowfullscreen
+  ></iframe>
+</p>
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Crafting+clean+code+%F0%9F%92%BB;Building+React+%2B+SpringBoot+Apps+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8;Leveling+Up+Everyday+%F0%9F%94%8A" alt="Typing animation" />
