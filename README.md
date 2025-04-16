@@ -5,6 +5,16 @@
 <h3 align="center">🚀 Full Stack Dev | Java + MERN Stack Enthusiast | Lifelong Learner 🚀</h3>
 
 
+<p align="center">
+  <a href="https://dev-dec-black.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=anuragtiwari3100&repo=Shopping-Cart-websites&theme=radical" />
+  </a>
+
+</p>
+
+
+
+
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=435&lines=Crafting+clean+code+%F0%9F%92%BB;Building+React+%2B+SpringBoot+Apps+%F0%9F%9A%80;Open+Source+Contributor+%E2%9C%A8;Leveling+Up+Everyday+%F0%9F%94%8A" alt="Typing animation" />
