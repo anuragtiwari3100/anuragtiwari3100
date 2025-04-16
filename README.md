@@ -4,15 +4,8 @@
 <h1 align="center">Hey 👋, I'm Anurag Tiwari</h1>
 <h3 align="center">🚀 Full Stack Dev | Java + MERN Stack Enthusiast | Lifelong Learner 🚀</h3>
 <p align="center">
-  <iframe 
-    src="https://dev-dec-black.vercel.app/" 
-    width="435" 
-    height="60" 
-    style="border:none; overflow:hidden;" 
-    scrolling="no"
-    frameborder="0"
-    allowfullscreen
-  ></iframe>
+🚀 [Check out my live Dev Dec App](https://dev-dec-black.vercel.app/)
+
 </p>
 
 
