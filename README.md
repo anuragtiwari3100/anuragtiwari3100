@@ -3,10 +3,7 @@
 
 <h1 align="center">Hey 👋, I'm Anurag Tiwari</h1>
 <h3 align="center">🚀 Full Stack Dev | Java + MERN Stack Enthusiast | Lifelong Learner 🚀</h3>
-<p align="center">
-🚀 [Check out my live Dev Dec App](https://dev-dec-black.vercel.app/)
 
-</p>
 
 
 <p align="center">
