@@ -1,18 +1,4 @@
-<!-- ❌ COPY PROTECTION START -->
 
-<p align="center">
-  <strong>⚠️ COPYRIGHT WARNING</strong><br>
-  <em>This README.md file is protected under copyright law.<br>
-  Unauthorized copying, reproduction, or reuse of any content (including text, layout, and design) is strictly prohibited.<br>
-  Violators will be subject to DMCA takedown and further legal action.</em><br>
-  <br>
-  <strong>© 2025 Anurag Tiwari. All Rights Reserved.</strong>
-</p>
-
-<!-- Invisible anti-copy trap -->
-<p style="font-size:0px;">​‌‌‍‍‍‌‍‌‍‌‌‌‌‍‌‌‍‌‌‍‌‌‍‌‌‌‌‍‍‌‌‍‌‌‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍</p>
-
-<!-- ❌ COPY PROTECTION END -->
 
 
 
@@ -93,3 +79,20 @@
 </a>
 
 </p>
+
+
+<!-- ❌ COPY PROTECTION START -->
+
+<p align="center">
+  <strong>⚠️ COPYRIGHT WARNING</strong><br>
+  <em>This README.md file is protected under copyright law.<br>
+  Unauthorized copying, reproduction, or reuse of any content (including text, layout, and design) is strictly prohibited.<br>
+  Violators will be subject to DMCA takedown and further legal action.</em><br>
+  <br>
+  <strong>© 2025 Anurag Tiwari. All Rights Reserved.</strong>
+</p>
+
+<!-- Invisible anti-copy trap -->
+<p style="font-size:0px;">​‌‌‍‍‍‌‍‌‍‌‌‌‌‍‌‌‍‌‌‍‌‌‍‌‌‌‌‍‍‌‌‍‌‌‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍‌‌‍</p>
+
+<!-- ❌ COPY PROTECTION END -->
