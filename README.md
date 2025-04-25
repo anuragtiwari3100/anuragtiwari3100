@@ -4,9 +4,10 @@
 
 <p align="center">
   <a href="https://dev-dec-black.vercel.app/">
-    <img src="tiwari.jpg" style="width: 300px; height: 300px; border-radius: 50%;" />
+    <img src="tiwari.jpg" />
   </a>
-</p>
+
+</p> 
 
 
 
