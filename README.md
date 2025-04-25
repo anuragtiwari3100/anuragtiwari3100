@@ -85,6 +85,10 @@
   <a href="https://www.instagram.com/abhishektiwari_8/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
+<a href="https://leetcode.com/u/Anurag_tiwari_100/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-F7DF1E?style=for-the-badge&logo=leetcode&logoColor=white" />
+</a>
+
 
 </p>
 
