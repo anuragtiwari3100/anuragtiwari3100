@@ -93,4 +93,4 @@
 
 <img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
 
-  <strong>© 2025 Anurag Tiwari. All Rights Reserved.</strong>
+  <strong>⚠️ This profile content is © Anurag Tiwari. Reproduction or reuse is not permitted without permission.</strong>
