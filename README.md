@@ -92,7 +92,7 @@
 
 </p>
 
-  <strong>© 2025 Anurag Tiwari. All Rights Reserved.</strong>
-
 <img src="https://raw.githubusercontent.com/Code-Mars/Code-Mars/output/snake.svg" alt="Snake animation" />
+
+  <strong>© 2025 Anurag Tiwari. All Rights Reserved.</strong>
 
