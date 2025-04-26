@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Anurag Tiwari</h1>
+<h1 align="center">Hey 👋, I'm <bold>Anurag</bold> </h1>
 <h3 align="center">🚀 Full Stack Dev | Java + MERN Stack Enthusiast | Lifelong Learner 🚀</h3>
 
 
