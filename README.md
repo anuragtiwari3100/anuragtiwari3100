@@ -3,6 +3,16 @@
 
 
 <p align="center">
+  <a href="https://github.com/light-hat?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.demolab.com/github/stars/light-hat?style=for-the-badge&logo=star&date=06072025"/></a>
+  <a href="https://github.com/light-hat?tab=followers">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/light-hat?style=for-the-badge&logo=person-add&label=Follow&logoColor=white&date=06072025"/></a>
+  <a href="https://github.com/light-hat/">
+    <img alt="views" title="GitHub profile views" src="https://komarev.com/ghpvc/?username=light-hat&style=for-the-badge"/></a>
+</p>
+
+
+<p align="center">
   <a href="https://dev-dec-black.vercel.app/">
     <img src="tiwari.jpg" height="600"/>
   </a>
