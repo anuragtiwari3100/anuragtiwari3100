@@ -2,14 +2,7 @@
 <h3 align="center">🚀 Full Stack Dev | Java + MERN Stack Enthusiast | Lifelong Learner 🚀</h3>
 
 
-<p align="center">
-  <a href="https://github.com/light-hat?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="[https://github.com/anuragtiwari3100?tab=repositories](https://github.com/anuragtiwari3100?tab=repositories)"/></a>
-  <a href="https://github.com/light-hat?tab=followers">
-    <img alt="followers" title="Follow me on Github" src="https://github.com/anuragtiwari3100?tab=followers"/></a>
-  <a href="https://github.com/light-hat/">
-    <img alt="views" title="GitHub profile views" src="https://github.com/anuragtiwari3100"/></a>
-</p>
+
 
 
 <p align="center">
