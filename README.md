@@ -43,12 +43,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=anuragtiwari3100&show_icons=true&theme=radical&hide_border=false&rank_icon=github" width="48%" alt="GitHub Stats" />
-</p>
-
 ---
 
 ## 🔥 Highlight Projects
